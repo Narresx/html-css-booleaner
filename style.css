@@ -12,3 +12,8 @@ header{
 span{
     color: cyan;
 }
+
+.highlighted{
+    color: black;
+    background-color: darkgoldenrod;
+}
