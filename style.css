@@ -16,5 +16,6 @@ span{
     background-color: darkgoldenrod;
 }
 
-body{
+.lightgrey{
+    color: gray;
 }
