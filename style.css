@@ -1,4 +1,11 @@
 *{
     margin: 0%;
-    background-color: brown;
+}
+header{
+    
+    text-align: left;
+    color: cornsilk;
+    background-color: cornflowerblue;
+    width: 100%;
+    background-image: url(images/pattern.png);
 }
