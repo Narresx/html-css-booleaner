@@ -39,3 +39,9 @@ span{
     height: 50px;
     vertical-align: middle;
 }
+
+.container{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
