@@ -28,5 +28,14 @@ span{
     background-color: lightcyan;
 }
 #table{
-    
+    border-collapse: collapse;
+}
+
+.w-50{
+    width: 50%;
+    text-align: center;
+}
+#logo{
+    height: 50px;
+    vertical-align: middle;
 }
